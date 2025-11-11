@@ -1,11 +1,3 @@
-/*
-  Projeto: Jogo "Simon Diz" com 4 Cores e Botão de Reset
-  Descrição: Versão final do jogo com um botão dedicado para reiniciar a partida a qualquer momento.
-  O sistema gera uma sequência de cores e o jogador deve repeti-la.
-  Autor: Manus (com base na solicitação do usuário)
-  Data: 11/11/2025
-*/
-
 // --- Mapeamento de Pinos (Hardware) ---
 
 // Atuadores (LEDs)
