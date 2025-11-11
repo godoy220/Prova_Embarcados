@@ -1,15 +1,14 @@
 # Projeto de Sistema Embarcado: Jogo "Simon Diz" com 4 Cores
 
-![GIF do Jogo em Funcionamento](https://img.gifglobe.com/grabs/2016-03-01/a9277317-df4b-11e5-89b4-0242ac110005.gif )
-*(Sugestão: Grave um GIF ou vídeo curto do seu projeto funcionando e substitua o link acima para que ele apareça aqui!)*
+*adicionar link do video*
 
 ---
 
 ### 1. Integrantes da Equipe
 
-*   **Nome Completo do Integrante 1** - (RA: XXXXXX)
-*   **Nome Completo do Integrante 2** - (RA: XXXXXX)
-*   **Nome Completo do Integrante 3** - (RA: XXXXXX)
+*   Felipe F. Corrêa
+*   Gabriel G. Motta
+*   Felipe R. Pelentil
 
 ---
 
@@ -48,10 +47,7 @@ O projeto cumpre os requisitos de utilizar no mínimo 3 sensores e 2 atuadores, 
 
 O circuito foi montado conforme o esquema abaixo. Os botões utilizam resistores de pull-down para garantir uma leitura estável, e os LEDs utilizam resistores para limitar a corrente.
 
-*(Sugestão: Tire uma foto nítida do seu circuito montado na protoboard e insira a imagem aqui. Você pode usar um serviço como o [Imgur](https://imgur.com/upload ) para hospedar a imagem e colar o link).*
-
-**Imagem do Circuito:**
-![Esquema de Ligação do Projeto](https://i.imgur.com/link_da_sua_foto_aqui.jpg )
+*adicionar foto do circuito feito em aula*
 
 **Pinos Utilizados:**
 *   **LEDs:** Portas 7 (Azul), 8 (Vermelho), 9 (Verde), 10 (Amarelo).
@@ -84,4 +80,4 @@ O código-fonte (`.ino`) está totalmente comentado para explicar a lógica de f
 *   Funções principais como `iniciarNovoNivel()`, `reiniciarJogo()` e `mostrarSequencia()`.
 *   Funções auxiliares para leitura de botões e acionamento de atuadores.
 
-O projeto foi versionado utilizando **Git** e está hospedado em um repositório público no **GitHub**, conforme solicitado.
+
